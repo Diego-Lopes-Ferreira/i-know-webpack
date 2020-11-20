@@ -1,9 +1,10 @@
 {
   "name": "webpack-config",
   "version": "1.0.0",
-  "description": "A setup for my javascript projects",
+  "description": "A configuration for my projects with javascript",
   "main": "index.js",
-  "author": "Diego Lopes Ferreira",
+  "repository": "https://github.com/Diego-Lopes-Ferreira/i-know-webpack.git",
+  "author": "Diego-Lopes-Ferreira <diego.lopes.ferreira.br@gmail.com>",
   "license": "MIT",
   "private": true
 }
