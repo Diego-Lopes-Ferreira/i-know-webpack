@@ -2,11 +2,19 @@
 > A webpack configuration for my javascript projects
 
 ### Dev Setup
-Clone this repository, install the dependencies and you will be able to:
+This small setup comes with:
+- HTML Webpack Plugin (auto generates html)
+- Babel
+- File Loaders
+- SCSS Suport
+- Base folder structure
 
 ```sh
-yarn start // start the development server
-yarn build // generate a build folder with the bundle
+
+  $ yarn start:dev // start the development server
+
+  $ yarn build // generate a build folder with the bundle
+
 ```
 
 ### Author
