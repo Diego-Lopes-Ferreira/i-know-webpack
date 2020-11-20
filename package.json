@@ -1,0 +1,9 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "A setup for my javascript projects",
+  "main": "index.js",
+  "author": "Diego Lopes Ferreira",
+  "license": "MIT",
+  "private": true
+}
